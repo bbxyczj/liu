@@ -16,6 +16,8 @@ import javax.annotation.Resource;
 @Controller
 public class LoginController {
 
+
+
     @Resource
     private UserService userService;
 
